@@ -1,0 +1,13 @@
+h1 {
+    font-size: 50px;
+    text-align: center;
+    color: black;
+    background-color: gray;
+}
+a {
+    color: pink;
+    font-size: 30px;
+}
+.output {
+    color: black;
+}
